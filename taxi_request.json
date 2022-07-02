@@ -1,0 +1,11 @@
+[
+    {
+        "userId": 1293872,
+        "timestamp": "2022-06-02 10:47:125",
+        "departureLatitude": "37.19274",
+        "departureLongitude": "127.02759",
+        "arrivalLatitude": "37.40140",
+        "arrivalLongitude": "126.92306",
+        "requestType": "blue"
+    }
+]
